@@ -8,8 +8,7 @@ middle_name:
 last_name: VanNorman
 email: trevor@vannorman.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm a program director of a rural food pantry and a pre-medical student. I'm intrested in and blog about how
-  wealth inequality and it's effects on health as well as tips and tricks in learning
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
